@@ -1,0 +1,1 @@
+<img><img src='http://beric.me/android/recall_beta0.2_screenshots.jpg' /></img>
